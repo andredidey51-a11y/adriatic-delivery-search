@@ -1,0 +1,167 @@
+{
+  "regions": [
+    "Geelong / Bellarine",
+    "Ballarat / Ballan / Melton",
+    "Kilmore",
+    "Yarra Glen",
+    "Pakenham / Officer / Drouin",
+    "Frankston / Mornington Peninsula",
+    "Clyde / Cranbourne / Berwick",
+    "Phillip Island / Bass Coast",
+    "Gisborne / Woodend"
+  ],
+  "dates": [
+    {
+      "region": "Frankston / Mornington Peninsula",
+      "date": "2026-11-17"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-11-17"
+    },
+    {
+      "region": "Pakenham / Officer / Drouin",
+      "date": "2026-11-18"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-11-18"
+    },
+    {
+      "region": "Ballarat / Ballan / Melton",
+      "date": "2026-11-19"
+    },
+    {
+      "region": "Yarra Glen",
+      "date": "2026-11-19"
+    },
+    {
+      "region": "Yarra Glen",
+      "date": "2026-11-24"
+    },
+    {
+      "region": "Frankston / Mornington Peninsula",
+      "date": "2026-11-24"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-11-24"
+    },
+    {
+      "region": "Geelong / Bellarine",
+      "date": "2026-11-25"
+    },
+    {
+      "region": "Kilmore",
+      "date": "2026-11-26"
+    },
+    {
+      "region": "Pakenham / Officer / Drouin",
+      "date": "2026-12-01"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-12-01"
+    },
+    {
+      "region": "Frankston / Mornington Peninsula",
+      "date": "2026-12-02"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-12-02"
+    },
+    {
+      "region": "Gisborne / Woodend",
+      "date": "2026-12-02"
+    },
+    {
+      "region": "Ballarat / Ballan / Melton",
+      "date": "2026-12-03"
+    },
+    {
+      "region": "Yarra Glen",
+      "date": "2026-12-04"
+    },
+    {
+      "region": "Kilmore",
+      "date": "2026-12-08"
+    },
+    {
+      "region": "Frankston / Mornington Peninsula",
+      "date": "2026-12-09"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-12-09"
+    },
+    {
+      "region": "Geelong / Bellarine",
+      "date": "2026-12-10"
+    },
+    {
+      "region": "Yarra Glen",
+      "date": "2026-12-10"
+    },
+    {
+      "region": "Yarra Glen",
+      "date": "2026-12-16"
+    },
+    {
+      "region": "Gisborne / Woodend",
+      "date": "2026-12-16"
+    },
+    {
+      "region": "Ballarat / Ballan / Melton",
+      "date": "2026-12-17"
+    },
+    {
+      "region": "Frankston / Mornington Peninsula",
+      "date": "2026-12-17"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-12-17"
+    },
+    {
+      "region": "Pakenham / Officer / Drouin",
+      "date": "2026-12-22"
+    },
+    {
+      "region": "Phillip Island / Bass Coast",
+      "date": "2026-12-22"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-12-22"
+    },
+    {
+      "region": "Kilmore",
+      "date": "2026-12-22"
+    },
+    {
+      "region": "Geelong / Bellarine",
+      "date": "2026-12-23"
+    },
+    {
+      "region": "Frankston / Mornington Peninsula",
+      "date": "2026-12-23"
+    },
+    {
+      "region": "Yarra Glen",
+      "date": "2026-12-23"
+    },
+    {
+      "region": "Clyde / Cranbourne / Berwick",
+      "date": "2026-12-29"
+    },
+    {
+      "region": "Yarra Glen",
+      "date": "2026-12-29"
+    },
+    {
+      "region": "Frankston / Mornington Peninsula",
+      "date": "2026-12-30"
+    }
+  ]
+}

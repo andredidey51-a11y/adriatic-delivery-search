@@ -1,0 +1,7 @@
+name = "adriatic-delivery-search"
+main = "worker/index.mjs"
+compatibility_date = "2025-06-01"
+workers_dev = true
+
+[vars]
+CLIENT_ID = "Iv23liZlLZfD3mj8ub4V"

@@ -52,7 +52,7 @@ async function start(){
  const saved=JSON.parse(sessionStorage.getItem('desk-auth')||'null');sessionStorage.removeItem('desk-auth');
  if(!saved||q.get('state')!==saved.state)throw Error('Sign-in expired. Please try again.');
  const r=await fetch(workerOrigin,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({code:q.get('code'),verifier:saved.verifier})});
- if(!r.ok)throw Error('Administrator sign-in was declined.');
+ if(!r.ok){const detail=await r.json().catch(()=>({}));throw Error(detail.message||'Login service returned HTTP '+r.status+'.');}
  token=(await r.json()).token;el('admin').hidden=false;el('login').hidden=true;
 }
 start().catch(report);
